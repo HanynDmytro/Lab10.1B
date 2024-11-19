@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Politeh\AP\LAB\pr10\pr10.1\B\10.1B\10.1B\Source.cpp(47,1): warning C4715: 'Student::return_major_name': not all control paths return a value
+     Creating library D:\Politeh\AP\LAB\pr10\pr10.1\B\10.1B\x64\Debug\UnitTest1.lib and object D:\Politeh\AP\LAB\pr10\pr10.1\B\10.1B\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Politeh\AP\LAB\pr10\pr10.1\B\10.1B\x64\Debug\UnitTest1.dll
